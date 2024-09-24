@@ -2,7 +2,7 @@
 
 - 🔭 I’m @dannymensah26
 - 👀 I’m interested in Deep Learning/Computer Vision and LLM
-- 🌱 I’m currently working on a number MLOps Projects
+- 🌱 I’m currently working on several MLOps Projects
 - 💬 Again, I work on Data Analytics projects using Power BI, SQL and GIS technologie
 - 👯 I’m looking to collaborate on any of the related projects
 - 📫 How to reach me, https://www.linkedin.com/in/daniel-opoku-mensah-5b016a75/

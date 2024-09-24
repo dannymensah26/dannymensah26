@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**dannymensah26/dannymensah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m @dannymensah26
 - 👀 I’m interested in Deep Learning/Computer Vision and LLM
 - 🌱 I’m currently working on a number MLOps Projects
@@ -14,4 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
+**dannymensah26/dannymensah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:

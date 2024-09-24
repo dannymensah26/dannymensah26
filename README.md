@@ -6,7 +6,7 @@
 - 💬 Again, I work on Data Analytics projects using Power BI, SQL and GIS technologie
 - 👯 I’m looking to collaborate on any of the related projects
 - 📫 How to reach me, https://www.linkedin.com/in/daniel-opoku-mensah-5b016a75/
--->
+
 
 
 <!--
